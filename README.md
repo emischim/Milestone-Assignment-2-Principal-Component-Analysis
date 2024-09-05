@@ -29,8 +29,8 @@ This project addresses the growing number of referrals at the Anderson Cancer Ce
 - The logistic regression model achieved an accuracy of 97.08%, demonstrating that the two PCA components retain sufficient information for accurate classification of cancer diagnoses.
 
 ## Files
-- pca_logistic_regression.py: Contains the code for PCA implementation and logistic regression on the cancer dataset.
-- README.md: Provides an overview and explanation of the project.
+- `pca_logistic_regression.py` : Contains the code for PCA implementation and logistic regression on the cancer dataset.
+- `README.md` : Provides an overview and explanation of the project.
 
 ## How to Run
-- Ensure all files (pca_logistic_regression.py, README.md, requirements.txt) are in the same directory.
+- Upload the `pca_logistic_regression.py` to google coloab, select a python runtime and run it
