@@ -1,11 +1,11 @@
 # PCA and Logistic Regression on Cancer Dataset
 ## Overview
-This project addresses the growing number of referrals at the Anderson Cancer Center by identifying essential variables for securing donor funding. Principal Component Analysis (PCA) is used to reduce the dimensionality of the cancer dataset and identify influential variables. Logistic regression is then applied to predict cancer diagnoses based on the reduced dataset.
+This project aims at catering for the increasing number of referrals in the Anderson Cancer Center by establishing relevant variables that would be useful in the search for donor funding. The basic procedure of Principal Component Analysis (PCA) is applied to reduce the dimensions of cancer dataset and to assess the significance of variables. The resulting variables are then fed to logistic regression, through which cancer diagnosis is predicted from the newly formed reduced dataset.
 
 ## Steps
 ## PCA Implementation:
 - PCA was applied to the breast cancer dataset from sklearn.datasets.
-- After standardizing the dataset to ensure equal feature contribution, PCA reduced the dataset to two principal components.
+- Which I then standardized for equal contribution to the features and consequently transforming the data to two principal components using PCA.
 - The first component explained 44.27% of the variance, while the second component explained 18.97%, capturing a total of 63.2% of the variance.
 
 ## Dimensionality Reduction and Visualization
