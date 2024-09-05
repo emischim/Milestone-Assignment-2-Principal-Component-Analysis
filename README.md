@@ -29,8 +29,8 @@ This project aims at catering for the increasing number of referrals in the Ande
 - The logistic regression model achieved an accuracy of 97.08%, demonstrating that the two PCA components retain sufficient information for accurate classification of cancer diagnoses.
 
 ## Files
-- `pca_logistic_regression.py` : Contains the code for PCA implementation and logistic regression on the cancer dataset.
+- `Milestone_Assignment_2_Principal_Component_Analysis.ipynb` : Contains the code for PCA implementation and logistic regression on the cancer dataset.
 - `README.md` : Provides an overview and explanation of the project.
 
 ## How to Run
-- Upload the `pca_logistic_regression.py` to google coloab, select a python runtime and run it
+- Upload the `Milestone_Assignment_2_Principal_Component_Analysis.ipynb` to google coloab, select a python runtime and run it
